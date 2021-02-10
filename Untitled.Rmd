@@ -2,10 +2,22 @@
 title: "My homepage TEST"
 author: "Giovanna Sassi"
 date: "2/10/2021"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: caymen
+    highlight: github
 ---
 
 
 ## This is my test repo!
 
 My name is *Gianna* and I like **chips**
+
+<img src="GiannaSassi2017600dpi.png" width="200" height="200" />
+
+
+### Homework Assignments
+
+#### Week 1: **Nothing due**
+
+#### Week 3: [link text: Homework 3 Answers](Homework/HW3.html)
